@@ -1,0 +1,48 @@
+body {
+  background-color: rgba(37, 32, 32, 0.408);
+  color: #000000;
+}
+
+.autor {
+  background-color: #00000021;
+  padding: 20px;
+  font-size: x-large;
+  margin-bottom: 10 px;
+  text-align: center;
+  border: 2px solid black;
+}
+
+h1 {
+  text-align: center;
+}
+
+h4 {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
+
+h3 {
+  text-align: center;
+}
+
+hr {
+  display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid rgb(0, 0, 0);
+    margin: 1em 0;
+    padding: 0; 
+    border: 2px solid black
+}
+
+textarea {
+  background-color: rgba(37, 32, 32, 0.408);
+}
+
+::placeholder {
+  color: black;
+}
+
